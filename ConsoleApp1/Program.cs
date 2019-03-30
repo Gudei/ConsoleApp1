@@ -7,6 +7,8 @@ namespace ConsoleApp1
         static void Main()
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Any");
+            Console.WriteLine("Bye");
             Console.ReadKey();
         }
     }
